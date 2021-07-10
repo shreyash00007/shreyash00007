@@ -1,5 +1,3 @@
-### Hello there 👋
-
 <h1> Hi, I am Shreyash <img src="https://media2.giphy.com/media/STlF2GH4HbeZAAXlq5/giphy.gif?cid=ecf05e472mib95bfm9al5gbakomnfnti251wfh2k2rroejhm&rid=giphy.gif&ct=g" width="40"> </h1>
 
 **Currently Learning** - 
@@ -33,23 +31,3 @@ int main (){
 ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyash00007&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash00007&langs_count=8)](https://github.com/shreyash00007/github-readme-stats)
-
-
-
-
-
-
-<!--
-**shreyash00007/shreyash00007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
