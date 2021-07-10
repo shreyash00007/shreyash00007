@@ -18,8 +18,7 @@ int main (){
     cout<<"Hello world, it was a beautiful start";
 	return 0;
 }
-    }
-} 
+    } 
 ```
 
 ## 🔭 Technologies 
