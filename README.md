@@ -5,7 +5,7 @@ Front-end Web Devlopment, Java and DSA.
 
 **You can find me on -**
  
-<a href="shreyash00007#2030"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.gg/5Knn8f5M"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://twitter.com/Shreyash_D_?s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> </br>
 
 ### <img src="https://media1.giphy.com/media/U29iRRUrtx1wjD4GR4/giphy.gif?cid=ecf05e472yvv7uqxuu6ufigm31tr1pxus9h4mrfjo8180qzh&rid=giphy.gif&ct=s" width="70"> A little more about me...  
