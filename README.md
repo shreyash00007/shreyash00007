@@ -18,7 +18,7 @@ Front-end Web Devlopment, Java and DSA.
 #include <bits/stdc++.h> 
 using namespace std;
 int main (){
-    cout<<"Hello world, it was a beautiful start";
+    cout<<"Hello world, it all started from this";
 	return 0;
 }
     } 
