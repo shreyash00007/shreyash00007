@@ -11,7 +11,7 @@ Front-end Web Devlopment, Java and DSA.
 ### <img src="https://media1.giphy.com/media/U29iRRUrtx1wjD4GR4/giphy.gif?cid=ecf05e472yvv7uqxuu6ufigm31tr1pxus9h4mrfjo8180qzh&rid=giphy.gif&ct=s" width="70"> A little more about me...  
 
 ## 🔭 Technologies 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-9778AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-9778AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">  <img src="https://img.shields.io/badge/C++-0284f5?style=for-the-badge&logo=C++&logoColor=white">
 
 ```C++
 #include<iostream.h>
