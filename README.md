@@ -28,6 +28,11 @@ int main (){
 
 ## My GitHub Status
 
-![my GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyash00007&show_icons=true&theme=dark)
+<a href="https://github.com/shreyash00007">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash00007&theme=dark&hide_langs_below=1" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash00007&langs_count=8)](https://github.com/shreyash00007/github-readme-stats)
+<a href="https://github.com/shreyash00007">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyash00007&show_icons=true&theme=dark&line_height=27" alt="Shreyash's github stats"/>
+</a>
+	
