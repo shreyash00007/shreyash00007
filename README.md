@@ -35,6 +35,6 @@ int main (){
 <a href="https://github.com/shreyash00007">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyash00007&show_icons=true&theme=dark&line_height=27" alt="Shreyash's github stats"/>
 </a>
-<!----
+<!---- Profile views
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shreyash00007)
 ---->
