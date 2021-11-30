@@ -1,7 +1,7 @@
 <h1> Hi, I am Shreyash <img src="https://media2.giphy.com/media/STlF2GH4HbeZAAXlq5/giphy.gif?cid=ecf05e472mib95bfm9al5gbakomnfnti251wfh2k2rroejhm&rid=giphy.gif&ct=g" width="40"> </h1>
 
 **Currently Learning** - 
-Web Devlopment,Android Development,Java and Data Science.
+Web Devlopment, Android Development, Java and Data Science.
 
 **You can find me on -**
  
