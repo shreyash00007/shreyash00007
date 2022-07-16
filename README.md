@@ -12,7 +12,9 @@ Web Development,UI UX, Android development and Cloud.
 
 ## 🔭 Technologies 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-9778AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">  <img src="https://img.shields.io/badge/C++-0284f5?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/Java-54131d?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Java-54131d?style=for-the-badge&logo=JAVA&logoColor=white"> <img src="https://img.shields.io/badge/GCP-67E819?style=for-the-badge&logo=google&logoColor=white">
+
+
 
 
 ```C++
