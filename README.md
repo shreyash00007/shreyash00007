@@ -1,7 +1,7 @@
 <h1> Hi, I am Shreyash <img src="https://media2.giphy.com/media/STlF2GH4HbeZAAXlq5/giphy.gif?cid=ecf05e472mib95bfm9al5gbakomnfnti251wfh2k2rroejhm&rid=giphy.gif&ct=g" width="40"> </h1>
 
 **Currently Learning** - 
-Web Development,UI UX, Android development and Cloud.
+Web Development, UI UX, and Android development.
 
 **You can find me on -**
  
@@ -22,18 +22,18 @@ Web Development,UI UX, Android development and Cloud.
 #include <bits/stdc++.h> 
 using namespace std;
 int main (){
-    cout<<"Hello world, it all started from this";
+    cout<<"Hello world..., it all started from this";
 	return 0;
 }
     } 
 ```
 
 ## My GitHub Status
-
+<!-------
 <a href="https://github.com/shreyash00007">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash00007&theme=dark&hide_langs_below=1" />
 </a>
-
+--->
 <a href="https://github.com/shreyash00007">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyash00007&show_icons=true&theme=dark&line_height=27" alt="Shreyash's github stats"/>
 </a>
