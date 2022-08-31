@@ -56,5 +56,5 @@ int main (){
 ------>
 
 <div align="left">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash00007&theme=dark" alt="prakash-naikwadi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash00007&theme=dark" alt="shreyash00007" /></p>
   </div>
