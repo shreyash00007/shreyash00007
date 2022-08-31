@@ -49,12 +49,12 @@ int main (){
 --->
 <div align="left">
 <a href="https://github.com/shreyash00007">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyash00007&show_icons=true&theme=dark&line_height=27" alt="Shreyash's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyash00007&show_icons=true&theme=tokyonight&line_height=27" alt="Shreyash's github stats"/>
 </a>
 <!------ Profile views
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shreyash00007)
 ------>
 
 <div align="left">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash00007&theme=dark" alt="shreyash00007" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash00007&theme=tokyonight" alt="shreyash00007" /></p>
   </div>
