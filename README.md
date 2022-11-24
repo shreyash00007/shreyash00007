@@ -1,7 +1,7 @@
 <h1> Hi, I am <a href="https://www.linkedin.com/in/shreyash-dhanawade-735a811a4/" target="_blank"> Shreyash </a> 👋</h1>
 
 **Currently Learning** - 
-Full Stack Web Development, UI UX, and Graphic Design.
+Full Stack Web Development, UX UI, and Graphic Design.
 
 **Connet with me -**
 
