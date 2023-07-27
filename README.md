@@ -40,21 +40,22 @@ int main (){
   <img alt="C" src="https://img.shields.io/badge/-0284f5?style=for-the-badge&logo=c&logoColor=white">
   <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div>
-
-## My GitHub Status 
+<!-- My GitHub Status -->
 <!-------
 <a href="https://github.com/shreyash00007">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash00007&theme=dark&hide_langs_below=1" />
 </a>
 --->
-<div align="left">
+<!-- <div align="left">
 <a href="https://github.com/shreyash00007">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyash00007&show_icons=true&theme=tokyonight&line_height=27" alt="Shreyash's github stats"/>
 </a>
+-->
 <!------ Profile views
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shreyash00007)
 ----->
-
+<!--
 <div align="left">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash00007&theme=tokyonight" alt="shreyash00007" /></p>
   </div>
+-->
