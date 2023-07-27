@@ -1,7 +1,7 @@
 <h1> Hi, I am <a href="https://www.linkedin.com/in/shreyash-dhanawade-735a811a4/" target="_blank"> Shreyash </a> 👋</h1>
 
 **Currently Learning** - 
-Full Stack Web Development, UX UI, and Graphic Design.
+Full Stack Web Development and UX UI Design.
 
 **Connet with me -**
 
@@ -28,6 +28,7 @@ int main (){
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%2320232a.svg?style=for-the-badge&logo=bootstrap&logoColor=%2361DAFB"/>
 <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
