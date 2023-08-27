@@ -60,3 +60,7 @@ int main (){
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash00007&theme=tokyonight" alt="shreyash00007" /></p>
   </div>
 -->
+
+<!-- GitHub Activity Graph -->
+[![Shreyash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyash00007&theme=rogue)](https://github.com/ginny100/github-readme-activity-graph)
+
