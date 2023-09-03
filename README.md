@@ -1,7 +1,7 @@
 <h1> Hi, I am <a href="https://www.linkedin.com/in/shreyash-dhanawade-735a811a4/" target="_blank"> Shreyash </a> 👋</h1>
 
 **Currently Learning** - 
-Full Stack Web Development and UX UI Design.
+Full Stack Web Development and UX / UI Design.
 
 **Connet with me -**
 
@@ -22,7 +22,9 @@ int main (){
 }
     } 
 ```
-
+<!---
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=shreyash00007)
+--->
 <h3 align="left">My Web Tech Stack :</h3>
 <div align="left">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -38,7 +40,6 @@ int main (){
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="C" src="https://img.shields.io/badge/-0284f5?style=for-the-badge&logo=c&logoColor=white">
   <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div>
 <!-- My GitHub Status -->
@@ -52,9 +53,7 @@ int main (){
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyash00007&show_icons=true&theme=tokyonight&line_height=27" alt="Shreyash's github stats"/>
 </a>
 -->
-<!------ Profile views
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=shreyash00007)
------>
+
 <!----
 <div align="left">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash00007&theme=tokyonight" alt="shreyash00007" /></p>
