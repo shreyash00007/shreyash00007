@@ -1,4 +1,4 @@
-<h1> Hi, I am <a href="https://www.linkedin.com/in/shreyash-dhanawade-735a811a4/" target="_blank"> Shreyash </a> 👋</h1>
+<h1> Hi, I am <a href="https://www.linkedin.com/in/shreyashdhanawade/" target="_blank"> Shreyash </a> 👋</h1>
 
 **Currently Learning** - 
 Full Stack Web Development and UX / UI Design.
