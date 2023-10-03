@@ -1,14 +1,14 @@
 <h1> Hi, I am <a href="https://www.linkedin.com/in/shreyashdhanawade/" target="_blank"> Shreyash </a> 👋</h1>
 
 **Currently Learning** - 
-Full Stack Web Development and UX / UI Design.
+Full Stack Web Development and UI Design.
 
 **Connet with me -**
 
 <a href="https://www.linkedin.com/in/shreyash-dhanawade-735a811a4/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:shreyashdhanawadecode@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://discord.gg/E38mxCCFpH"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://twitter.com/Shreyash_D_?s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> </br>
+<a href="https://twitter.com/shreyashdd?s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> </br>
 
 ### <img src="https://media1.giphy.com/media/U29iRRUrtx1wjD4GR4/giphy.gif?cid=ecf05e472yvv7uqxuu6ufigm31tr1pxus9h4mrfjo8180qzh&rid=giphy.gif&ct=s" width="70"> A little more about me...  
 **This is how it started,**
