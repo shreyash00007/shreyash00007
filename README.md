@@ -1,9 +1,6 @@
-<h1> Hi, I am <a href="https://www.linkedin.com/in/shreyashdhanawade/" target="_blank"> Shreyash </a> 👋</h1>
+<h1> Hi, I am <a href="https://www.linkedin.com/in/shreyashdhanawade/" target="_blank"> Shreyash Dhanawade </a> 👋</h1> 
 
-**Currently Learning** - 
-Full Stack Web Development and UI Design.
-
-**Connet with me -**
+**You can find me here -**
 
 <a href="https://www.linkedin.com/in/shreyash-dhanawade-735a811a4/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:shreyashdhanawadecode@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -22,9 +19,7 @@ int main (){
 }
     } 
 ```
-<!---
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=shreyash00007)
---->
+
 <h3 align="left">My Web Tech Stack :</h3>
 <div align="left">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -42,24 +37,68 @@ int main (){
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div>
+
+<p></p>
+<div align="left">
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyash00007&theme=github_dark" />
+  <br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyash00007&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyash00007&theme=github_dark" />
+</a>    
+</div>
+
+<!-- GitHub Activity Graph-->
+[![Shreyash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyash00007&theme=rogue)](https://github.com/ginny100/github-readme-activity-graph)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!---Old Stuff---->
+ 
 <!-- My GitHub Status -->
 <!-------
 <a href="https://github.com/shreyash00007">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash00007&theme=dark&hide_langs_below=1" />
 </a>
 --->
-<!-- <div align="left">
+
+<!-- 
+<div align="left">
 <a href="https://github.com/shreyash00007">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyash00007&show_icons=true&theme=tokyonight&line_height=27" alt="Shreyash's github stats"/>
 </a>
 -->
 
-<!----
+<!---- Strreak Stats
 <div align="left">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash00007&theme=tokyonight" alt="shreyash00007" /></p>
   </div>
 -->
-
-<!-- GitHub Activity Graph -->
-[![Shreyash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyash00007&theme=rogue)](https://github.com/ginny100/github-readme-activity-graph)
-
+ 
+<!---
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=shreyash00007)
+--->
