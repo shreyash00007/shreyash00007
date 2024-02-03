@@ -48,7 +48,7 @@ int main (){
 </a>    
 </div>
 
-<!-- GitHub Activity Graph-->
+<!----- GitHub Activity Graph----->
 [![Shreyash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyash00007&theme=rogue)](https://github.com/ginny100/github-readme-activity-graph)
 
 
